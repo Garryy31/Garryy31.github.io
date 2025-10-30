@@ -12,7 +12,7 @@ This project showcases my skills, projects, achievements, and background as a Co
 ---
 
 ## 🧑‍💻 About Me
-Hi, I'm **Gaurav Sonawane**, a passionate **Computer Science student at BAMU University** with a strong interest in **AI, web development, and coding**.  
+Hi, I'm **Gaurav Sonawane**, a passionate **Computer Science student ** with a strong interest in **AI, web development, and coding**.  
 My goal is to create impactful digital experiences and innovative solutions using technology.
 
 **Philosophy:**  
